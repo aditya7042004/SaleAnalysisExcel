@@ -18,11 +18,11 @@ This project analyzes **sales data** to extract valuable insights and visualize 
 
 
 
-🔗 **Check the full project here:** [https://github.com/ritik7545/SaleAnalysisExcel]  
+🔗 **Check the full project here:** [https://github.com/aditya7042004/SaleAnalysisExcel.git]  
 📩 Feel free to connect for discussions on **data analysis & visualization**! 🚀  
 
 ## 🔗 Connect With Me:
-- **📌 LinkedIn:** (https://www.linkedin.com/in/ritikkumarsah)  
-- **🌐 Personal Website:** (https://ritiksah.netlify.app/)  
+- **📌 LinkedIn:** (https://www.linkedin.com/in/aditya-yadav-398902245/)  
+- **🌐 Personal Website:** ()  
 
 ---
